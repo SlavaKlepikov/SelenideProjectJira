@@ -1,0 +1,2 @@
+# SelenideProjectJira
+mvn clean install
